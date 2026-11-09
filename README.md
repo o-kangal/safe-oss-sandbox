@@ -6,7 +6,7 @@
   <img src="assets/docker-sandbox.gif" alt="Try Any Tool Without Risk: a Docker sandbox in 9 steps" width="720">
 </p>
 
-**Author:** Onur Kangal · **Last updated:** November 10, 2026 · **License:** [CC BY 4.0](LICENSE)
+**Author:** Onur Kangal · **Last updated:** November 10, 2026 · **License:** [CC BY 4.0](LICENSE) · **Read the story on [LinkedIn](https://www.linkedin.com/pulse/open-source-isnt-trust-signal-anymore-how-i-try-new-tools-onur-kangal-vldlf)**
 
 ## Contents
 
